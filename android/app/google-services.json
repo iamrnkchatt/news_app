@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "1078756324827",
+    "firebase_url": "https://scst-news-default-rtdb.firebaseio.com",
+    "project_id": "scst-news",
+    "storage_bucket": "scst-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078756324827:android:445fa4880a91b569efe3fe",
+        "android_client_info": {
+          "package_name": "com.example.scnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078756324827-asvl1rh76bilf5lv8u9enu0rvcbqg90h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scnews",
+            "certificate_hash": "56aa17f9bbb1e7f6d72e797786c81fa23e5679ea"
+          }
+        },
+        {
+          "client_id": "1078756324827-batrl15k2s6nnh0k51t8mdjm1qdbk061.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scnews",
+            "certificate_hash": "c95da2f0bf22e2e7824859cea82691db8440f35c"
+          }
+        },
+        {
+          "client_id": "1078756324827-h9qq38nqltl7fbl2mjhqbd1vvf612ijq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scnews",
+            "certificate_hash": "18db74b611dcce588a0893327c518a798399da8a"
+          }
+        },
+        {
+          "client_id": "1078756324827-nj6h2t89k7bfp690lv9eo2qdt184n2tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgej-GAHeRH2eRAWPYTgj1ooR9Ph8iwo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078756324827-nj6h2t89k7bfp690lv9eo2qdt184n2tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078756324827:android:dfb96ce09a90de18efe3fe",
+        "android_client_info": {
+          "package_name": "com.scstnews.scstnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078756324827-im5cnj4h39kf02672sbf80bd1o7rgs3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scstnews.scstnewsapp",
+            "certificate_hash": "c95da2f0bf22e2e7824859cea82691db8440f35c"
+          }
+        },
+        {
+          "client_id": "1078756324827-nj6h2t89k7bfp690lv9eo2qdt184n2tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgej-GAHeRH2eRAWPYTgj1ooR9Ph8iwo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078756324827-nj6h2t89k7bfp690lv9eo2qdt184n2tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
